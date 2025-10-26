@@ -1,4 +1,5 @@
 export * from "./add.ts";
+export * from "./webdav-client.ts";
 
 /**
  * Run the CLI when the module is the main module
